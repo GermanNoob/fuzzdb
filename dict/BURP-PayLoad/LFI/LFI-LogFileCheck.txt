@@ -21,6 +21,7 @@
 /usr/local/apache2/logs/error.log
 /var/log/access_log
 /var/log/access.log
+/var/log/auth.log
 /var/log/error_log
 /var/log/error.log
 /var/log/apache/access_log
